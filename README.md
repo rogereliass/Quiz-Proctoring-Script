@@ -1,5 +1,5 @@
-# Proctoring-Assignment-Script 
-# TA Proctoring Assignment System
+# Quiz-Proctoring-Script 
+
 
 This project implements a Prolog program to assign Teaching Assistants (TAs) to proctor quizzes based on their teaching schedules. The system ensures that assignments meet specific constraints, such as availability, teaching conflicts, and days off. It can find possible assignments of TAs to quizzes, verify given assignments, or output `false` if no valid assignment exists.
 
